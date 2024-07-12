@@ -192,7 +192,7 @@ body {
 
 #contact {
 	margin: auto;
-	background-color: #D8D3A8 ;
+	background-color: #f4efc5 ;
 	position: relative;
 	padding-inline: 100px;
 	padding-block: 100px;
@@ -203,7 +203,7 @@ body {
 }
 .picture.right::before {
 	content: ' ';
-	background-color: #BEB45A;
+	background-color: #aba03b;
 	width: 374px;
 	height: 329px;
 	position: absolute;
@@ -240,7 +240,7 @@ form textarea {
 	margin-bottom: 20px;
 }
 input[type="submit"] {
-	background-color: #BEB45A;
+	background-color: #aba03b;
 	padding: .5em 1em
 }
 
