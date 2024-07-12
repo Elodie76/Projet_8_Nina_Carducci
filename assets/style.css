@@ -77,17 +77,18 @@ body {
 .about-me__title {
 	margin-top: 1em;
 	margin-bottom: 60px;
-	font-size: 30px;
+	font-size: 37px;
 }
 .about-me__introduction {
 	font-family: 'Spectral';
+	font-size: 19px;
 	font-weight: 800;
 	font-style: italic;
 	width: 60%;
 }
-#about-me p {
+.about-me__description {
 	width: 80%;
-	font-size: 14px;
+	font-size: 16px;
 }
 
 #gallery {
@@ -96,6 +97,7 @@ body {
 .title{
 	text-align: center;
 	padding-block: 2em;
+	font-size: 37px;
 }
 .gallery .nav {
 	justify-content: center;
@@ -147,12 +149,13 @@ body {
 	font-family: Spectral;
 	font-style: italic;
 	font-weight: 300;
+	font-size: 30px;
 
 }
 .quote__author {
 	font-family: Spectral;
 	font-weight: 800;
-	font-size: 22px;
+	font-size: 25px;
 }
 
 #services {
