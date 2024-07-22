@@ -107,12 +107,15 @@ body {
 	padding-block: 2em;
 	font-size: 37px;
 }
+.white{
+	color: #fff;
+}
 .gallery .nav {
 	justify-content: center;
 }
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
 	color: #fff;
-	background-color: #BEB45A;
+	background-color: #847732;
 	border-radius:0 ;
 }
 .nav-pills .nav-link {
@@ -151,6 +154,7 @@ body {
 	font-style: italic;
 	width: 70%;
 	margin: auto;
+	margin-top: 30px;
 	padding-block: 3em;
 	z-index: 2;
 }
@@ -174,16 +178,16 @@ body {
 
 #services {
 	margin: auto;
-	background-color: #b9e9ed ;
+	background-color: #00838F ;
 	position: relative;
 	z-index: 0;
 }
 #services .container::before{
 	content: ' ';
-	background-color: #17515e;
+	background-color: #13434d;
 	position: absolute;
 	width: 100%;
-	height: 30%;
+	height: 33%;
 	bottom: 0;
 	left: 0;
 	display: flex;
